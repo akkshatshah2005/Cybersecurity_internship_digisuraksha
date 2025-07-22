@@ -84,3 +84,13 @@ Welcome to my Cybersecurity Internship repository, showcasing an intensive **8-w
 
 ## 📁 Repository Structure
 
+📦Cybersecurity_Internship
+├── Week_1_MITRE_TTP/
+├── Week_2_Malware_APT28/
+├── Week_3_Linux_PrivEsc/
+├── Week_4_OSINT_Recon/
+├── Week_5_WebExploitation/
+├── Week_6_VulnerableVMs/
+├── Week_7_LogAnalysis_IR/
+├── Week_8_Final_Report/
+├── README.md
